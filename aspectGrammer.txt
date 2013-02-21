@@ -1,0 +1,262 @@
+The question is whether the shape of what, as followers of Frege, we
+understand as logic proper or the logical element in thought has thus
+far impeded a proper grasp of the form of certain types of actual
+thought. On the the Fregean conception of 'logic,' it is the systematic
+elaboration of formal connections of thought to thought; the correlative
+understanding of the inner form, or 'logical form,' of individual
+thoughts is one that is fitted to the study of these inter-thought
+connections. 
+
+What falls outside these forms is not thought. Thus for
+example Frege is led to reject vague predicates as failing to fit with
+his version of the law of excluded middle.
+
+The distinction between past and present tenses falls to similar
+considerations, even already in *Grundlagen*. It must be replaced by an
+account in which tensed predicates really express atemporal relations to
+particular times, so that the opposition between "$\xi$ is red" and
+"$\xi$ was red (then)" turns on different ways of filling in the second
+"temporal" blank in, say, "Red($\xi$,$\tau$)". 
+
+This reduction is
+reasonable enough on the face of it, though the intuition of Lewis, for
+example - that redness just *isn't* a relation to something, but
+something a thing can just plain *be* - must give one pause.
+
+A more difficult case would be with aspectual judgment, whether of the
+type that pertains to intentional action, or to the operations of
+substances generally.
+
+This difficulty is independent of tense: peering into the remote past,
+or adopting a Godlike atemporal view - which is like looking at things
+from an imaginary "time at infinity" posted after all the times and
+events of real history - there will still be a difference between "the
+tree was falling over (on that Tuesday)" and "the tree fell over (on
+that Tuesday)"; the first might be ('timelessly') true, but the second
+('timelessly') false, if say, someone did something to stop the fall, or
+an H-bomb went off and vaporized the tree before it hit the ground.
+
+Here the Fregean and indeed standard device of cutting an extra position
+in a predicate that is common to both judgments, in order to represent
+features of the two contents that are the same and different, is plainly
+not adequate: this distinction will survive the relationalization. (I
+note that Lewis' four-dimensionalist solution to the problem of tensed
+state-attribution will not work either.) The Fregean will simply have to
+accept two predicates, "$\xi$ fell over on (date) $\tau$" and "$\xi$ was
+falling over on $\tau$", and will be unable to represent the - evidently
+*formal* - connection between them.
+
+It is sometimes thought that the manifold of times and dates is
+something extralogical, just some of the stuff we think about, and thus
+that the reduction of "$\xi$ is red" to "Red ($\xi$, now)" and of "$\xi$
+was red" to something like "$\exists$t t$\prec$now $\wedge$ Red($\xi$,
+t)" gets time out of logic - that is, out of the form of thought and
+into its content. But it is hard to see how a similar trick can be
+pulled in the aspectual case: we have to do with a distinction of
+representations of things as "complete" and "incomplete", as grammarians
+put it, and it is not clear that this can be represented as a matter of
+content rather than form.
+
+This sort of example might lead one to doubt that that everything that
+pertains to the form of thought is represented in the Fregean system and
+its successors, however much enriched by modal and suchlike operators.
+The systems characteristically accept only one *form of predication*,
+which is exactly the form that is found in purely mathematical
+judgments. But, on the face of it, the aspectual opposition would force
+us to accept at least two more. And similarly, it would force us to
+recognize a *form of predicable item* that is intrinsically such as to
+admit these two modes of predication - it is built for them, so to speak
+- and which is thus distinct from the Fregean *Begriffswort* and its
+successors in later systems.
+
+It involves a symbolic perversity akin to that of Peirce's existential
+graphs (or indeed Frege's system as a whole), but one might imagine a
+*Begriffsschrift* attempting to come to terms with this by admitting
+different positions for contentful sign of the relevant sort, so that
+"$\xi^{\text{fall over}}\tau$" and "$\xi_{\text{fall over}}\tau$" would
+express respectively "$\xi$ fell over, on (date) $\tau$" and "$\xi$ was
+falling over, on (date) $\tau$". All concrete symbols of that type -
+genuine verbs we might call them - would admit these *two* modes of
+'unity' with other signs, and in the initial specification of
+vocabulary, they would have to occupy a line different from the one
+supplied for 'normal' one-place predicates, two-place predicates, etc.,
+as they are usually understood. It should be noticed that expressions of
+such a type cannot be classified by the sort of 'categorial grammar'
+familiar from Ajdukiewicz, Lewis and others. This is a system of
+considerable abstractness and power, which, I believe can characterize
+the syntax of *any* familiar logical system. In other words, the
+aspectual case does not fit with Frege's model of function and argument.
+*Function and argument can only combine in one way* - not to put too
+fine a point on it - but aspectual considerations seem to show that the
+concept *fall over* is made or forged, or born, to be joined immediately
+to singular representations *in two ways*, even apart from difficulties
+about tense proper. (In the 'symbolism' described above the statements
+are still construed as 'tenseless'.)
+
+The Fregean account stays too close to the sort of analysis required for
+the formulation of principles of consequence. If we are only interested
+in the existential generalizations made available by "the tree fell over
+on that Tuesday" and "the tree was falling over on that Tuesday", we
+will not need to see the sameness that my half-baked symbolism was
+trying to bring out. We can just see "$\xi$ fell over, on (date) $\tau$"
+and "$\xi$ was falling over, on (date) $\tau$" as two different
+relational symbols with no inner logical connection. Here we have "form
+without function/argument analysis." The focus on function and argument
+is closely related to the focus on iterability, apart from which the
+special arts of the contemporary logician lose their point. It should be
+noticed that the distinction between "it was falling" and "it fell" is
+not to be compared with the opposition of, say, $\Box$ P and $\Diamond$
+P, since opposed modes of predication are no more iterated than the
+standard single mode of predication in, say, "F(a)" can be iterated.
+<http://www.apple.com/startpage/>
+
+I have labored this illustration as (to my mind) especially clear and
+founded on what seem to be undeniable facts. Consider though what
+linguists call *generic* propositions, and the particular class of them
+that appear in simple discourses about species of plant and animal,
+which I called "natural historical judgments": say "robins nest",
+"robins have wings" etc. The linguist's expression "generic proposition"
+is supposed to cover a much wider class including, say, "Dutchmen are
+good sailors," "1969 Mustangs have rectangular tail-lights", "Tuesdays
+are a nightmare for me," "the French 'ne...pas' means *not*", and so on.
+Here there is an extensive contemporary literature in linguistics, with
+a small but increasing philosophical echo. Here we have to do with a
+special *form of* *generality* - or, as I think, a system of forms of
+generality - but at the bottom it is the question of the *form of*
+*predication* that makes for the difficulties. It is clear that in
+"robins nest" and "robins have wings" the surface-grammatical
+*subject,*"robin," appears as a predicate in some judgments, e.g. in
+"this bird is a robin"; in the received logical atmosphere this
+predicative use will inevitably be taken as the core employment of the
+expression; similarly the predicate in "robins have wings" will appear
+in predications of a quite different type, singular tensed predications
+like "this robin has wings". The generic sentence "robins have wings"
+will thus inevitably be analyzed as containing the elements "$\xi$ is a
+robin" and "$\xi$ has wings". An example is in the customary use of the
+"Gen x" operator, wherewith the judgment that robins have wings is
+expressed "[Gen x: x is a robin][]", a formulation that is usually
+traced to the treatment of "most" and similar expressions in the
+categorial grammar of Lewis & co. To put it in terms of that so-called
+categorial grammar, the linguists' thought is that in the generic
+proposition we are secretly employing *an operator that* *takes two*
+(things-that-take-names-and-yield-sentences) *and yields a sentence*
+*from them*. (This is only the syntactic beginning; a flood of
+semantical proposals then follow.)
+
+It is not clear that the semantic features of "robin" that come out in
+its predicative use are all those that are relevant to the formulation
+of the natural history of robins. -Doctrines of this type operate on a
+sentence by sentence level, as one would reasonably do with "most", but
+it is clearly constitutive of the natural history "generics" that they
+form a system. And so forth. The point that strikes deepest, if the
+matter could be properly formulated, would I think arise from
+contemplation of the *connection* between simple predications like "this
+bird has wings" or "this robin has wings" and a background of generic
+judgments. It is not clear that there is not a circle secretly present
+in accounts that begin with this apparantly innocent syntactical
+decision. To put the point crudely, the generic facts about robins have
+a bearing on the facts about actual individual robins - facts that are
+are presented with the form of predication contained in the sub-sentence
+"x has wings". This again is in contrast with the like of "most"; what
+can be predicated of an individual A rarely turns on what holds of most
+A's.
+
+Let us make a different contrast, one that shows up in exemplification
+statements. If I say, *Most As are F*, *Some As are F* or *All As are
+F*, I can go on, saying, *for example,* *this A is F*, *that A is F* and
+so on. The predicate is tensed in *Most As are F* and the others - and
+all the instances must bear the same tense. But "Robins are F" can be
+illustrated with past facts about robins, - for example, this robin was
+F (pointing at film) - and it would have to be so if "are F" is
+something like "are spotted in the Fall", since it's not Fall right now.
+
+The parallel with the aspectual case is clearer if we go back to the
+sentence "robins nest," in which a proper (i.e. aspectible) "verb" is
+employed. Intuitively, the second element in the 'Gen x' machinery would
+have to be "x nests", which would have a substitution instance in "this
+robin nests" affirmed in a suitable demonstrative context. In English
+this proposition is *habitual* in character. It would not seem to be
+truly affirmed of a perfectly ordinary adolescent robin whom I might see
+now, one facing her first winter, and not having nested - since she was
+born this past spring. But in any case, it is plainly not a habitual
+that is wanted. This would be clearer if our example were, say,
+"mayflies breed" - the individual only breeds once, not habitually; one
+does not say of any one mayfly "it breeds", even at the moment when it
+breeds. In the present tense - and on the face of it the judgments in
+question, "robins nest" and "mayflies breed" are purely present in
+character - *the only available non-habitual remark* would be the
+progressive proposition "this robin is nesting". But a rewrite of the
+generic proposition as "[Gen x: x is a robin][1]" would go back into
+English as "robins are nesting" which, though generic, is not
+natural-historical, and is in any case false when said at this time of
+year (January). *It* can be said in spring, at least in years when all
+goes well for robins, but "robins nest" can be said at any time of year.
+The truth is that the aspectible expressions exemplified above with
+"fall over" are shown to admit *yet another* form of predication in
+generic propositions (and still another in habitual propositions). "This
+robin was nesting last spring" (e.g. before I shot it), "this robin
+nested last spring" and "robins nest in spring" all share *the same
+material contents* (I overlook difficulties with the demonstrative) and
+differ only by form - logical form if you like - and in the final
+analysis, none can be taken as prior; these three possibilities of
+thought all come into the world together. If human thought is
+'discursive thought' in Kant's sense, and thus typically involves
+predication, then it must be a completely false understanding of
+predication, and thus of the inner character of thought itself, and of
+the logical element, that would fall down before such quotidian
+examples.
+
+The linguists are trapped by a conception of predication that cleaves
+too closely to the (rightly) mesmerizing model passed down to us by our
+father Frege. There is something in the element we breath that makes us
+torture perfectly ordinary propositions like "the tree is falling over"
+and "robins breed".
+
+This defect shows up in almost every employment of Church's
+$\lambda x (...x...)$ among the linguists. It is sometimes called a
+predicate abstract, but what it 'abstracts' is the Fregean predicate
+which includes tense and aspect and so on: all you need to do is supply
+a name and you have a complete thought. But this is not how you arrive
+at what is diversly predicated, of course. Thus in e.g. G. Carlson we
+have constructions like $Hab(George,,\lambda x (x, smokes)$; here we
+have a double error. First, instances of $x\, smokes$ would be e.g.
+$George\, smokes$, which is habitual already, so who needs the $Hab$
+operator or the like? But if we switch to the non-habitual, what shall
+we choose? It seems it can't be something past like $George\, smoked$ or
+$George\, was\, smoking$ - replacing "George" with "x", of course. So
+it'll have to be the present progressive. But the truth is plain, we
+need something on the order of $to\, smoke$, something that can "make a
+sentence out of a name", but in different ways, which must be marked,
+and to some extent are marked in human languages. In his criticism of
+Anscombe, Evans assumes that the object of intention can be captured in
+the $\lambda x(...x...)$. I guess he would write
+$George\, intends\,\lambda x(x\, smokes)$ when George intends to smoke,
+since he does write $George\, intends\,\lambda x(x\, refers\, to\, x)$.
+(It is true that "refers" is a special verb, it is performative inter
+alia, and doesn't have a progressive.
+
+To express all of this we need to introduce more nutty procedures like
+the one I compare to Peirce and Frege's above. $George_{smoke}\tau$ and
+$George^{smoke}\tau$ and $\frac{smoke}{George}\tau$ for progressive,
+perfective and habitual respectively (assuming again that we can
+separate out tense.) For generic propositions, we would need a way of
+attaching a predicate to a common noun, so called - and a way to view
+the subject of such judgments as also the only other ingredient in
+George is an S. [^1]
+
+[^1]: There is discussion in Dummett of the distinction between the
+    Fregean 'complex predicate' and Fregean 'simple predicate'. The
+    distinction was lost on the readers, cp Harman's review of FPL,
+    since without considerations like these it is hard to see the
+    difference between the simple predicate to smoke and the complex
+    predicate smokes or is smoking if you are restricted to, say
+    arithmetical language. But Dummett points out that in some sense a
+    simple and complex predicate might be the same, the complex
+    predicates are arrived at by deletion, but the simple ones
+    presupposed in composition. The joining of simple predicates with
+    other words depends on 'valence' not on the concept-object,
+    function-argument analysis.
+
+  [`http://www.apple.com/startpage/`{.url}]: http://www.apple.com/startpage/
+  [Gen x: x is a robin]: x%20has%20wings
+  [1]: x%20is%20nesting

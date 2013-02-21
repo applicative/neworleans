@@ -1,0 +1,578 @@
+The Form of Thought Reflections on Categories of
+the Temporal
+
+Adrian Haddock, University of Stirling  
+
+\1. It is a real pleasure to be able to offer
+these reflections on Sebastian Roedl’s book, a
+book I greatly admire. Careful and rich,
+convincing and stimulating, lucid and deep: it is
+philosophy as it should be. I have learned an
+enormous amount from it, and I know that I will
+continue to think about and profit from it for
+many years to come.
+
+\2. Roedl’s book describes itself as a work of
+logic, in the sense of Hegel’s Science of Logic or
+Husserl’s Logical Investigations, in that it is,
+or at least aspires to be, "nothing but thought
+reflecting upon itself, articulating what thought
+as thought knows itself to be" (3).
+
+\3. It has as its topic, not particular minds, but
+the mind; not specific thinkers, but the thinker.
+It seeks to describe "the form of thought in
+general: what characterises thought as thought"
+(19).
+
+\4. It sees itself as thereby engaged in the very
+enquiry Aristotle describes when he speaks of a
+science "that investigates what is insofar as it
+is and what belongs to it in itself" (22). To
+describe the form of thought just is to describe
+the form of what is—the form of being.
+
+\5. That is to articulate the content of the
+category, the concept which represents what it is
+a concept of purely as what is thought—purely as
+what is. And because the form of thought is itself
+a system of forms of thought—a system of forms of
+being—the category is itself a system of concepts
+each associated with one of these forms. Each
+category is a concept which represents what it is
+a concept of purely as what figures in the
+associated form.
+
+\6. To describe such a form is to articulate
+knowledge, of thought as thought, and so of being
+as being, which one possesses simply in virtue of
+thinking thoughts of this form.
+
+\7. For to think just is to think a thought
+bearing such a form, and so to possess such
+knowledge—pure knowledge. To "think" but not to
+think a thought bearing such a form—to "think" but
+not to possess pure knowledge—is not to think.
+Thought, considered as such, is pure
+knowledge—pure knowledge of thought, and so, pure
+knowledge of being.
+
+
+I "The outsider"
+
+\8. This is a vision as beautiful as it is simple.
+But there is a serpent in the grass.
+
+\9. There is a sceptic who doubts that the form of
+thought is the form of being. Their suspicion is
+that what we think, precisely because it is what
+we think, fails to be an apprehension of what is.
+
+\10. McDowell writes: "Of course thought can be
+distanced from the world by being false, but there
+is no distance from the world implicit in the very
+idea of thought". That is precisely what this
+sceptic doubts.
+
+\11. Their suspicion is not that we can think
+falsely and thereby fail to apprehend what is, but
+that we fail to apprehend what is because what we
+do is think.
+
+\12. Consider predicative thought. It articulates
+into things (objects) and their determinations
+(properties). These concepts of thing and
+determination are categories—pure concepts. In
+thinking such thoughts we possess pure knowledge
+that thought articulates in this way.
+
+\13. Moreover, in thinking such thoughts, we
+possess pure knowledge that reality articulates in
+this way—if the form of thought is the form of
+being. And that is what the sceptic doubts. Their
+thought is that, in so thinking, we fail to
+apprehend what is, precisely because reality does
+not articulate in this way—it does not bear this
+form of thought. These categories are at best
+projections. And this doubt holds, not just for
+these, but for all pure concepts.
+
+\14. Is this an intelligible doubt? One might
+think not; one might be tempted to say, with
+McDowell, that the idea of what is just is the
+idea of what is thought. Roedl himself insists
+upon this very identity; as he puts it, " ‘what
+is’ ... is a declarative sentence variable; its
+values are what declarative sentences as such
+express: thoughts" (24). But he realises that
+simply affirming this identity does not address
+the sceptic’s doubt. For the sceptic thinks they
+have a different way of understanding the idea of
+what is: as the idea of what is given through the
+senses. And they doubt that what is given through
+the senses bears the form of thought.
+
+\15. We might wonder whether the sceptic needs to
+understand the idea of what is in this way.
+Perhaps there is a way to understand it which does
+not tie it to the idea of the sensory given. We
+will return to this. But the strategy of this
+sceptic—the metaphysical sceptic—seems clear: to
+suggest not just that the idea of what is lines up
+with the idea of what is given through the senses,
+but that what is so given does not bear the form
+of thought—and thereby to advance the doubt that
+thought is incapable of apprehending what is.
+
+\16. It is worth dwelling on the structure of this
+strategy. It seems to be as follows. First, the
+sceptic introduces the idea of an "outsider" to
+what we take to be our way of apprehending what
+is—something which at least seems to be a
+candidate for knowing the real, but which the
+sceptic claims does not bear the form of "our
+way". (In the present case, "our way" is thought,
+and "the outsider" is sense perception.) Then—in
+the second part—it advances a conception of what
+is which exploits the idea of this "outsider". (In
+this case, a conception according to which reality
+is what is given through the senses.) And together
+these two parts make room for the third part: the
+doubt that reality can be apprehended in "our
+way".
+
+\17. Roedl finds a response to the present version
+of metaphysical scepticism in Kant’s
+Transcendental Deduction. This response does not
+dispute the sceptic’s conception of reality as
+what is given through the senses. It affirms that
+the category is the pure concept of an object
+given through the senses (cf. 38-9). What it
+disputes is the first part. For it insists that
+sense perception is precisely not an "outsider" to
+thought: what is given through the senses itself
+has a certain form, and this form is nothing other
+than the form of thought.
+
+\18. In this prospect, the ideas of what is, what
+is given through the senses, and what is thought
+are to become one. The form of thought is no
+projection, because it just is the form of what is
+given through the senses. And that just is the
+form of what is. Metaphysical scepticism is
+thereby cut off from the root. That, at least, is
+the hope.
+
+\19. But Roedl thinks the hope is dashed. For the
+form of sensory intuition through which we take
+ourselves to apprehend reality is time. And there
+seems to be room for a sceptic to doubt that this
+is the form of what is. It is the form of our
+intuition, and so the form of thought as it
+relates to our intuition. The category as it
+relates to our intuition is the pure concept of an
+object in time. But Kant himself makes it look as
+if that is not identical to the pure concept of
+what is given through the senses. He thereby makes
+it look as if there is an "outsider" to this way
+of apprehending reality: "a finite intellect whose
+form of intuition differs from ours" (40).
+
+\20. This version of metaphysical scepticism does
+not deny that reality is what is given through the
+senses. It rather exploits the idea of this
+"outsider" to wonder whether reality is what is
+given through the senses in this specific form.
+Perhaps this form is at best a projection.
+
+\21. The idea that thought might have time as its
+form can seem unfamiliar in contemporary
+philosophy. We might assume that thought relates
+to time in virtue of what we think, and not in
+virtue of the form in which we think it. But Roedl
+maintains the contrary; elucidating the specific
+unities through which this relation obtains is the
+aim of the second part of his book.
+
+\22. The present version of metaphysical
+scepticism is precisely the doubt that this
+form—time—is the form of what is. And, as before,
+Roedl’s response is to show that there is no such
+"outsider" as the sceptic claims. But whereas the
+earlier response did not dispute the existence of
+the mode of apprehension which was said to be an
+"outsider" (namely, sense perception), merely its
+"outsider" status, Roedl’s strategy is to show
+that there is no possibility of "a finite
+intellect whose form of intuition differs from
+ours"—that the pure concept of what is given
+through the senses is nothing other than the pure
+concept of an object whose form is time. In this
+prospect, the ideas of what is, what is given,
+what is given in the form of time, and what is
+thought are to become one.
+
+\23. And this is something that Roedl seeks to
+establish prior to deriving the specific forms of
+thought. In this respect, his strategy is exactly
+the reverse of Kant’s. Kant derives the forms of
+thought in abstraction from thought’s relation to
+intuition, in the so-called Metaphysical
+Deduction; only then does he attempt to show how
+they relate to what is given, in the
+Transcendental Deduction. Roedl’s contrasting
+strategy is to establish—prior to any derivation
+of specific unities—that thought as thought
+relates to what is given and therefore to time;
+only then does he attempt to derive the unities
+which make this possible.
+
+\24. So, in Roedl’s presentation, what Kant
+distinguishes as two separate deductions becomes
+one. "We find the forms of thought as forms of
+relating to time and therefore to intuition. We
+have, by our manner of finding them, always
+already vindicated their validity." (58)
+
+
+ II Infinite thought
+
+\25. I find this (enormously ambitious) conception
+of thought and its relation to the real to be
+almost as beautiful as the Edenic vision with
+which we began. So, I do not relish the prospect
+of playing the role of the serpent in this
+scene—but as that seems to be the role that I am
+required to play, on this occasion, I have little
+choice but to raise a doubt of my own.
+
+\26. The doubt is whether Roedl can have given us
+a conception of the form of thought. This doubt
+does not pertain specifically to his claim
+regarding the temporal character of this form; it
+arises at an earlier stage—when he grants what he
+presents as Kant’s point that the form of thought
+is the form of sensory intuition.
+
+\27. This doubt arises in two ways. The first way
+which I want to consider pertains to Roedl’s
+handling of the idea of infinite thought—thought
+which has an object, but not an object given
+through the senses, and which does not therefore
+have the form of sensory intuition.
+
+\28. The mere idea of such thought seems to give
+rise to metaphysical scepticism. For such thought
+seems to be an "outsider" to what Roedl presents
+as our way of apprehending what is—namely, finite
+thought, thought whose object is given through the
+senses. It thereby seems to afford a certain
+conception of what is—as the object of infinite,
+rather than finite, thought. And it thereby seems
+to make room for the doubt that "our way" is not a
+way of apprehending reality.
+
+\29. Faced with this version of metaphysical
+scepticism, one would expect Roedl’s strategy to
+be the same as before: to show either that this
+"outsider" does not exist, or that it is not an
+"outsider" at all, because it—infinite thought—and
+"our way"—finite thought—constitute a unity.
+Indeed, it seems he has already committed himself
+to the impossibility of such an "outsider", in his
+claim that the form of thought is the form of
+sensory intuition. For him to grant the
+possibility of infinite thought would, it seems,
+be for him to grant that the form of what is given
+through the senses does not characterise "thought
+as thought".
+
+\30. However, it seems that he does grant the
+possibility of this species of thought. His aim is
+to show that it cannot be the measure of finite
+thought. And his way of doing this is not to try
+to bring the species together, but to keep them
+apart. He never explicitly considers the present
+version of metaphysical scepticism, but it seems
+that this is how he would respond to it—for the
+claim that infinite thought is the measure of
+finite thought is precisely what this version
+insists upon: the idea of infinite thought
+provides for a certain conception of what is, and
+thereby yields a standard—the apprehension of
+reality—which infinite thought meets but finite
+thought does not. Roedl thinks that this claim
+rest on a false assumption, namely, that finite
+thought constitutes a merely accidental unity:
+thought, considered as such, is infinite; finite
+thought is thought which relates to something
+external to it (something to which its relation
+can at best be accidental) namely, sensory
+intuition, and, through being related to this, is
+rendered finite—and therefore, according to the
+claim which Roedl wants to undermine, deficient as
+thought.
+
+\31. In place of this accidentalist picture, Roedl
+insists that finite thought is thought which
+relates not accidentally but essentially to
+sensory intuition. Rendering the unity of finite
+thought essential does not dissolve the
+distinction between finite thought and infinite
+thought: they remain distinct species of a common
+genus. But, short of the accidentalist picture,
+this distinction does not amount to a normative
+ordering, merely to a contrast between two
+fundamentally distinct species of thought. That,
+at least, is Roedl’s hope.
+
+\32. But is this the only way to make sense of
+finite thought’s deficiency as thought? Even
+without the accidentalist picture, the mere
+distinction between our finite species and the
+infinite species, which is not ours, seems to be
+enough to cast the latter in the role of
+"outsider", and to render the former potentially
+lacking by comparison. This suggests that there
+must be a different way of making sense of finite
+thought’s deficiency as thought. And there seems
+to be. Could not finite thought be thought which
+is both essentially finite and, by comparison to
+its infinite sibling, essentially imperfect as
+thought?
+
+\33. To think of finite thought in this way is to
+think of it as imperfect, not because it is
+tainted by something external to its
+genus—thought—but because it essentially fails to
+realise its genus. The other species of its genus,
+infinite thought, realises the genus, and is
+therefore perfect. But finite thought does not,
+and is therefore imperfect. This replaces the
+accidentalist picture of finite thought and its
+deficiency with a more Hegelian picture. Indeed,
+it replaces it with the very Hegelian vision of
+the relation between finite and infinite thought,
+and consequent deficiency of the former, that
+Roedl endorses in his more recent work.
+
+\34. It is, then, not clear that the present
+version of metaphysical scepticism stands or falls
+with the accidentalist picture. It seems to be the
+conception of infinite thought as an "outsider"
+which is fundamentally responsible for this form
+of scepticism. This is not a conception which
+Roedl shows us how to overcome; indeed, in his
+insistence on a sharp difference between what he
+presents as our species of thought—the finite
+species—and the infinite species, he seems rather
+to enforce it. And it is not clear how to square
+this attitude to the possibility of infinite
+thought, which does not have the form of sensory
+intuition, with his claim that the form of sensory
+intuition is the form of thought.
+
+\35. I now want to raise the present doubt,
+concerning Roedl's claim to have identified the
+form of thought, in a somewhat different way—not
+by looking outside our thought (or at least, not
+by looking at what Roedl presents as lying outside
+our thought), but by going inside it.
+
+
+III A residual empiricism
+
+\36. "Kant agrees with Hume that we can apprehend
+what is only by being affected by it; without
+this, we cannot even think it" (41). For Kant, the
+ideas of what is, and what is given through the
+senses, are one. Indeed, for Kant as Roedl
+presents him, and so for Roedl, the ideas of what
+is, what is given through the senses, and what is
+thought are one.
+
+\37. As we have seen, this identity is central to
+the response to metaphysical scepticism which
+Roedl finds in the Transcendental Deduction—a
+response which Roedl endorses (and seeks to take
+further). But we might wonder how he can endorse
+this identity. For it is a central claim of
+Roedl’s—one which is explicit in his other book,
+Self-Consciousness—that we enjoy a species of
+thought, indeed a species of knowledge, whose
+object is not given through the senses, namely,
+the very knowledge which he thinks
+self-consciousness is. He seems to think that it
+is not true, in general, that we can know, let
+alone think, what is only by being affected by it.
+So, there seems to be a tension between what he
+says in his other book, and what he says in the
+book I am discussing here.
+
+\38. And this tension seems to be not simply
+between these two books of his; it seems to be
+internal to the book I am now discussing. For, as
+we have also seen, this book maintains that,
+simply in thinking thoughts bearing a certain
+form, one has pure knowledge that thought has this
+form—that it joins thing and determination, for
+example. To have this knowledge, "I need not be
+affected by this or that; I only must think" (37).
+But this knowledge is knowledge of what is. For
+what it is knowledge of—namely, that thought has
+this form—is something expressed by a declarative
+sentence. And "what is" just is the variable
+expression of what such sentences express. Put
+differently: it is knowledge of what is, for what
+it is knowledge of is something that is thought,
+and the idea of what is just is the idea of what
+is thought. So, by the lights of the identity
+which Roedl endorses, we cannot have this
+knowledge unless we are affected by what it is
+knowledge of. And yet, by the lights of Roedl’s
+conception of pure knowledge, it seems we can have
+this knowledge without being affected by what it
+is knowledge of, but simply by thinking thoughts
+which bear the relevant form.
+
+\39. The tension is clear. If the ideas of what
+is, what is given through the senses, and what is
+thought are one—as Roedl claims—and if pure
+knowledge is knowledge that (specifically,
+knowledge that thought has a certain describable
+form), then pure knowledge has as its object
+something given through the senses. Pure knowledge
+rests on affection—contrary to what Roedl
+explicitly maintains.
+
+\40. There is no space here to claim that the
+object of pure knowledge is not what is given
+through the senses, but rather the form of what is
+so given. For so long as pure knowledge is
+knowledge that, the values of "what is" are
+thoughts, and the ideas of what is and what is
+given through the senses are one, its object
+cannot fail to be what is thereby given.
+
+\41. Of course, because his book rejects the view
+that what is given through the senses is in itself
+formless, "a matter external to thought upon which
+thought may impose its form" (11), it does seem
+apt for Roedl to describe his book as "a rejection
+of empiricism". But in committing itself to the
+claim that pure knowledge of the form of thought
+rests upon affection by its object, there is a
+residual empiricism at the heart of his book—and
+this is the source of the present tension.
+
+\42. What can be done to resolve this tension? It
+might seem that the right response is to take the
+low road of Quine and the later Wittgenstein, and
+scorn the very idea of the general form of
+thought. But this is not a route with which Roedl
+will have any sympathy.
+
+\43. There seem to be three possibilities open to
+him, each of which requires some revision of his
+initial conception.
+
+\44. The first, and—it seems—the most revisionist
+possibility is to deny that the pure knowledge in
+question is knowledge that. Simply in thinking
+thoughts of a certain form one does have knowledge
+of the form of thought. But this knowledge cannot
+be articulated or expressed; it is inexpressible,
+ineffable. (This, it can seem, was the view of the
+early Wittgenstein.) That would fly in the face of
+Roedl’s original description of his book as
+"nothing but thought reflecting upon itself,
+articulating what thought as thought knows itself
+to be". The self-knowledge of thought which his
+book promises to articulate is the very knowledge
+which this possibility declares to be incapable of
+articulation.
+
+\45. The second possibility would be to break
+apart the idea of what is from the idea of what is
+thought. If these ideas are equated, then thought,
+considered as such, is of what is. But according
+to this possibility, it is not; there can be
+thoughts which are not of what is—which are, in
+this sense, empty—but which are still thoughts.
+(This, it can seem, is the authentically Kantian
+possibility.)
+
+\46. To endorse this possibility is, it seems, to
+reject Roedl’s starting point: that thought,
+considered as such, is pure knowledge. For to be
+pure knowledge, thought must have an object—it
+must be of what is—and so must not be empty. This
+possibility seems to leave room to claim that,
+simply in thinking thoughts of a certain form, one
+has the thought—the consciousness—that thought has
+this form. But this consciousness is not itself
+knowledge, because, even though it is thought, it
+does not have an object—it is not of what is.
+
+\47. This possibility remains revisionist, from
+the point of view of Roedl’s initial conception.
+And the idea of empty thought which it employs is
+at least not easy to understand. That leaves us
+with the third possibility, with which Roedl may,
+I think, be more in sympathy.
+
+\48. This is to break apart, not the ideas of what
+is and what is thought, but the ideas of what is
+and what is given through the senses. That retains
+Roedl’s starting point—that thought, considered as
+such, is pure knowledge—but revises the conception
+of the form of thought, as a relation to what is
+given, which he proceeds to develop. Thought,
+considered as such, is pure knowledge. And the
+object of pure knowledge is not given through the
+senses. So, thought, considered as such, is
+infinite. Given Roedl’s own starting point, it
+seems that we find infinite thought not by looking
+outside but precisely by going inside our own
+thought.
+
+\49. From this perspective, any project of
+articulating knowledge of the form of thought
+must, it seems, not only specify the form of
+infinite thought, but show how it and finite
+thought—thought whose object is given through the
+senses—constitute a unity; a unity in which the
+former is not an "outsider", and so raises no
+threat of metaphysical scepticism.
+
+\50. This is a unity which Roedl’s book does not
+enable us to understand—and which it is not yet
+clear how to understand. But, given Roedl’s
+starting point, it is a unity which it seems that
+we must understand—if we are to understand
+ourselves as the thinkers we are.
+
+Thanks to Wolfram Gobsch, Matthias Haase, Colin
+Johnston, Sasha Newton, and Peter Sullivan.
+
+Sebastian Roedl, Categories of the Temporal: An
+Inquiry into the Forms of the Finite Intellect,
+translated by Sibylle Salewski (Cambridge, Mass.:
+Harvard University Press, 2012). All page
+references are to this volume. Originally
+published as Kategorien des Zeitlichen: Eine
+Untersuchung der Formen des endlichen Verstandes
+(Frankfurt am Main: Suhrkamp Verlag, 2005).
+
+Metaphysics Г 1,1003a21.
+
+John McDowell, Mind and World (Cambridge, Mass.:
+Harvard University Press, 1994), p. 27. "Hegelian
+Dialectics and Aristotle’s Stufenleiter of Life",
+MS.
+
+Self-Consciousness (Cambridge, Mass.: Harvard
+University Press, 2007).
+
+See A. W. Moore, Points of View (Oxford: Oxford
+University Press, 1997).
